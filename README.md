@@ -1,2 +1,3 @@
 # Machine-Learning Repo
-For general machine learning projects
+General machine learning projects are in this Folder.
+Languages used here are Python and R languages.
