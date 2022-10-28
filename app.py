@@ -1,4 +1,11 @@
 
+'''
+uncomment the following code to install missing dependencies
+'''
+
+# pip install -r requirements.txt
+
+#importing packages
 from flask import Flask, render_template
 import pandas as pd
 import json
@@ -8,7 +15,7 @@ import pandas as pd
 import xlrd
 import openpyxl
 
-
+# initialize Flask
 app = Flask(__name__)
 
 
