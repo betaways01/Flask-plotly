@@ -1,0 +1,10 @@
+# uncomment to install missing packages
+# pip install -r requirements.txt
+
+#flask
+#pandas
+#json
+#plotly
+#plotly.express
+#xlrd
+#openpyxl
